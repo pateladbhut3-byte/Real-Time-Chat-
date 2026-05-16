@@ -43,4 +43,4 @@ The platform provides a clean design, responsive layout, and smooth user experie
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/developer-team-portfolio.git
+git clone https://github.com/pateladbhut3-byte/Team-portfolio
